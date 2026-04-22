@@ -325,6 +325,5 @@ Knowledge Graph
 
 ---
 
-## License
-
-MIT
+### Author
+Monishwaran K  AI & ML Enthusiast | Building intelligent systems 🚀
